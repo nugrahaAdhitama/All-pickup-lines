@@ -1,0 +1,27 @@
+section {
+    padding-top: 7.5rem;
+    height: 100vh;
+}
+
+.button-link{
+    text-decoration: none;
+    color: white;
+}
+
+.my-button:hover {
+    background-color: white;
+    color: black;
+}
+
+.my-button:hover a {
+    color: black;
+}
+
+.instagram {
+    text-decoration: none;
+    color: black;
+}
+
+.instagram:hover {
+    color: purple;
+}
